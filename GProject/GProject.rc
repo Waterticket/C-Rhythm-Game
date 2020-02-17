@@ -1,0 +1,96 @@
+// Microsoft Visual C++ generated resource script.
+//
+#pragma code_page(65001)
+
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어(대한민국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP1             BITMAP                  "mania-note1.bmp"
+
+IDB_BITMAP2             BITMAP                  "mania-note2.bmp"
+
+IDB_BITMAP3             BITMAP                  "line.bmp"
+
+IDB_BITMAP4             BITMAP                  "bar_line.bmp"
+
+IDB_BITMAP_KOOL         BITMAP                  "KOOL.bmp"
+
+IDB_BITMAP_COOL         BITMAP                  "COOL.bmp"
+
+IDB_BITMAP_GOOD         BITMAP                  "GOOD.bmp"
+
+IDB_BITMAP_BAD          BITMAP                  "BAD.bmp"
+
+IDB_BITMAP_MISS         BITMAP                  "MISS.bmp"
+
+IDB_BITMAP_HP_BAR       BITMAP                  "health.bmp"
+
+IDB_BITMAP_SCORE_A      BITMAP                  "score_A.bmp"
+
+IDB_BITMAP_SCORE_B      BITMAP                  "score_B.bmp"
+
+IDB_BITMAP_SCORE_C      BITMAP                  "score_C.bmp"
+
+IDB_BITMAP_SCORE_D      BITMAP                  "score_D.bmp"
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

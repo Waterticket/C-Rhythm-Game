@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MapReader.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pan.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="networking.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MapReader.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Pan.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="networking.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="mania-note1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="mania-note2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="line.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="bar_line.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="KOOL.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="COOL.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="GOOD.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="bitmap6.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BAD.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="MISS.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="health.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="score_A.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="score_B.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="score_C.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="score_D.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GProject.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="applause.mp3">
+      <Filter>리소스 파일</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="score.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,82 @@
+osu file format v14
+
+[General]
+AudioFilename: pi.mp3
+AudioLeadIn: 0
+PreviewTime: 16
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 1
+
+[Metadata]
+Title:pi
+TitleUnicode:π
+Artist:Jinjin
+ArtistUnicode:Jinjin
+Creator:Jinjin
+Version:4K Beginner
+Source:
+Tags:circumference math circles 3.14159265358979323846264338
+BeatmapID:1103144
+BeatmapSetID:519251
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4
+OverallDifficulty:7
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"pi background.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+16,916.982516200024,3,2,0,45,1,0
+
+
+[HitObjects]
+64,192,1849,1,0,0:0:0:0:
+320,192,2766,1,2,0:0:0:0:
+64,192,4600,1,0,0:0:0:0:
+448,192,5517,1,2,0:0:0:0:
+448,192,7351,1,0,0:0:0:0:
+64,192,8268,1,2,0:0:0:0:
+320,192,10102,1,0,0:0:0:0:
+192,192,11019,1,2,0:0:0:0:
+64,192,12853,1,0,0:0:0:0:
+192,192,13312,1,0,0:0:0:0:
+320,192,13770,1,2,0:0:0:0:
+448,192,14229,1,0,0:0:0:0:
+192,192,14687,1,0,0:0:0:0:
+448,192,15604,1,0,0:0:0:0:
+320,192,16521,1,2,0:0:0:0:
+64,192,18355,1,0,0:0:0:0:
+320,192,19272,1,2,0:0:0:0:
+448,192,21106,1,0,0:0:0:0:
+192,192,21565,1,0,0:0:0:0:
+320,192,22023,1,2,0:0:0:0:
+64,192,22482,1,0,0:0:0:0:
+448,192,22940,1,0,0:0:0:0:
+320,192,23857,1,0,0:0:0:0:
+192,192,24774,1,2,0:0:0:0:
+192,192,26837,1,0,0:0:0:0:
+448,192,28098,128,0,33027:0:0:0:0:
